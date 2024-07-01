@@ -1,0 +1,25 @@
+less 49915  ATM 49900
+
+call = 49800 - 1 ITM CE (-100)
+put = 50000 - 1 ITM PE (+100)
+
+
+greater than 49985 ATM 50000
+
+call = 49900 - 1 ITM CE (-100)
+put = 50100 - 1 ITM PE (+100)
+
+49951 ATM 50000
+
+call = 49900 - 1 ITM CE (-100)
+put = 50000 - ATM PE (0)
+
+
+49997 ATM = 50000  ( 49985 - 50015 )
+
+ce = 49900 - 1 ITM CE (-100)
+pe = 50100 - 1 ITM PE (+100)
+
+
+bn st dis = 100
+nifty  = 50

@@ -1,0 +1,2 @@
+pyinstaller --onefile --hidden-import=py5paisa --hidden-import=pkg_resources.py2_warn --hidden-import=pkg_resources.main main.py
+
